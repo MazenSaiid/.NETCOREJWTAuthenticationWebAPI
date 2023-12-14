@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f/Sp04gKUK+kfkE1BHqOuaVI18kXwIUzD7KWM/N1gFM=",
+  "Source": "Login.API.JWT.Token",
+  "BasePath": "_content/Login.API.JWT.Token",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
